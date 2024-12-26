@@ -2,8 +2,8 @@
 ## JavaScript, React
 
 ### Connect with me:
-![https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg]([Linkedin] 
-(https://linkedin.com/in/aylinbushaj))
+![https://linkedin.com/in/aylinbushaj]([Linkedin] 
+(https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg))
 <a href="https://linkedin.com/in/aylinbushaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aylinbushaj" height="30" width="40" /></a>
 
 
